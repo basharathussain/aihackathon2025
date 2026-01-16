@@ -8,3 +8,6 @@ Go to the cursor and use the option "Git Clone" using Command+Shift+P. choose yo
 Open the left pane and create a README.md file, and edit it. 
 
 In the agent, write the prompt "Please checkin my code". See if the Agent is working properly. 
+
+
+Navigate to 'https://cursor.directory/django-python-cursor-rules' and copy the prompt to place in '.cursorrules' file at root. 
